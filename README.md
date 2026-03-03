@@ -22,7 +22,7 @@
 ## <img src = "images/presenter_transparent.gif" width = 50px> **About me**
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+tech+geek..&hearts;++;I'm+an+android+Developer;I'm+a+Web+Developer;A+C%2B%2B+Coder;I'm+a+Chess+Player;Computer+Science+Student;Love+to+learn+new+stuffs..<3">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+tech+geek..&hearts;++;I'm+a+Full+Stack+Developer;I'm+a+.NET+Developer;A+C%2B%2B+Coder;I'm+a+Chess+Player;Computer+Science+Student;Love+to+learn+new+stuffs..<3">
     </a>
 </p>
 
