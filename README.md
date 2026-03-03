@@ -25,9 +25,10 @@
 ###	
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **About me**
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+tech+geek..&hearts;++;I'm+an+android+Developer;I'm+a+Web+Developer;A+C%2B%2B+Coder;I'm+a+Chess+Player;Computer+Science+Student;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&   lines=I'm+a+tech+geek..&hearts;++;I'm+a+Full-Stack+Developer;I'm+a+Web3+Developer;A+C%2B%2B+Coder;I'm+a+Chess+Player;Love+to+learn+new +stuffs..<3">
+  </a>
 </p>
-
 
 
 ###
@@ -80,7 +81,8 @@
 </div>
 
 ###
-[![An image of @skartiksk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skartiksk)](https://holopin.io/@skartiksk)
+[![An image of @skartiksk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skartiksk)]
+(https://holopin.io/@skartiksk)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
@@ -89,22 +91,18 @@
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skartik-sk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=skartik-sk&theme=dracula&column=3&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
- 
 </div>
-
 
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"/><b> Let's Connect..!</b>
 
 <div align="center">
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Singupalli Kartik on LinkedIn"/>](https://www.linkedin.com/in/singupalli-kartik/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Singupalli Kartik on Twitter"/>](https://twitter.com/SKartik_SK)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/skartik_sk)
+    [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Ethan Backhus on LinkedIn"/>](https://www.linkedin.com/in/ethanbackhus/)
+    [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Ethan Backhus on Twitter"/>](https://x.com/e_backhus)
 </div>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div> 
 
 
