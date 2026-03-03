@@ -92,8 +92,8 @@
 ## <img src="images/handshake.gif" width ="35" height="35"/><b> Let's Connect!</b>
 
 <div align="center">
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ethan Backhus on LinkedIn" title="Follow Ethan Backhus on LinkedIn"/>](https://www.linkedin.com/in/ethanbackhus/)
-    [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Ethan Backhus on Twitter"/>](https://x.com/e_backhus)
+[<img src="images/linkedin.png" height="40em" align="center" alt="Follow Ethan Backhus on LinkedIn" title="Follow Ethan Backhus on LinkedIn"/>](https://www.linkedin.com/in/ethanbackhus/)
+    [<img src="images/twitter.svg" height="40em" align="center" alt="Follow e_backhus on Twitter" title="Follow Ethan Backhus on Twitter"/>](https://x.com/e_backhus)
 </div>
 
 <div align="center">
