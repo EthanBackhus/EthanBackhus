@@ -89,7 +89,7 @@
 </div>
 
 
-## <img src="images/handshake.gif" width ="40" height="40"/><b> Let's Connect..!</b>
+## <img src="images/handshake.gif" width ="35" height="35"/><b> Let's Connec.!</b>
 
 <div align="center">
     [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Ethan Backhus on LinkedIn"/>](https://www.linkedin.com/in/ethanbackhus/)
