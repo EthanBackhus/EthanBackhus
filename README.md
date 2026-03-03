@@ -1,8 +1,4 @@
 
-<!-- <img src ="https://github.com/SingupalliKartik/SingupalliKartik/assets/113655672/9c4c2822-2310-45ff-a4e0-c566c6af30e1"/> -->
-<!-- <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p> -->
 
 <h1 align="center"><b>Hi , I'm Ethan Backhus </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -26,7 +22,7 @@
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **About me**
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&   lines=I'm+a+tech+geek..&hearts;++;I'm+a+Full-Stack+Developer;I'm+a+Web3+Developer;A+C%2B%2B+Coder;I'm+a+Chess+Player;Love+to+learn+new +stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+tech+geek..&hearts;++;I'm+a+Full-Stack+Developer;I'm+a+Web3+Developer;A+C%2B%2B+Coder;I'm+a+Chess+Player;Love+to+learn+new +stuffs..<3">
   </a>
 </p>
 
